@@ -1,0 +1,22 @@
+{
+  "name": "uglify3-boilerplate",
+  "version": "1.0.0",
+  "description": "a basic node.js file for uglifyjs3 to test mangling property names etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-gs/uglifyjs-boilerplate.git"
+  },
+  "author": "Gerard Simpson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/node-gs/uglifyjs-boilerplate/issues"
+  },
+  "homepage": "https://github.com/node-gs/uglifyjs-boilerplate#readme",
+  "dependencies": {
+    "uglify-js": "^3.0.3"
+  }
+}
